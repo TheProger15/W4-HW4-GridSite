@@ -87,7 +87,12 @@ h2 {
   font-weight: 600; 
   margin-bottom: 30px; 
 }
-.hero p { color: #8a8d90; font-size: 18px; line-height: 1.5; margin-bottom: 40px; }
+.hero p { 
+  color: #8a8d90; 
+  font-size: 18px; 
+  line-height: 1.5; 
+  margin-bottom: 40px; 
+}
 .hero-img { 
   width: 480px; 
 }
