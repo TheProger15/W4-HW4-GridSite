@@ -132,7 +132,6 @@ h2 {
   gap: 20px;
 }
 .listening img { width: 55%; }
-
 .about {
   display: flex;
   align-items: center;
@@ -179,7 +178,6 @@ h2 {
   font-size: 18px;
 }
 .price small { font-size: 11px; color: #8a8d90; }
-
 .contact {
   display: flex;
   align-items: center;
